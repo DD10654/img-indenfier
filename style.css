@@ -1,0 +1,10 @@
+.cointainer-fluid {
+    background-color: teal;
+    color: wheat;
+}
+
+#camera, #result {
+    border: 5px ridge black;
+    width: 350px;
+    height: 300px;
+}
